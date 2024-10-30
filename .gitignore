@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Flask and Python virtual environment
+venv/
+*.env
+.env
+
+# Node modules for D3 (if you installed it locally with npm)
+node_modules/
+
+# IDE/editor config files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# MacOS specific files
+*.DS_Store
+
+# Logs and error files
+*.log
+
+# Python-specific caches and compiled files
+*.egg-info/
+*.eggs/
+dist/
+build/
+*.so
+*.egg
